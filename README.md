@@ -6,7 +6,7 @@
 
 ## Python Files
   - **create_users.py** : Used to create a user (no role assignment)
-  - **get_users.py** : Get the list of users and display information<br>
+  - **get_users.py** : Get the list of users and display information<br><br>
   ![List of Users](./img/getUsers.jpg)
   
 ## How to Execute
