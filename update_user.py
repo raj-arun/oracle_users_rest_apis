@@ -4,7 +4,7 @@ from requests.auth import HTTPBasicAuth
 
 ## REST API End Point URL. Make sure to give the correct server name
 ## User Id of the user from Oracle Cloud
-url = "https://<servername>.fa.us2.oraclecloud.com/hcmRestApi/scim/Users/94AE8D4EA2E5A471E0502E0A86CD1E6D"
+url = "https://<servername>.fa.us2.oraclecloud.com/hcmRestApi/scim/Users/88AE8D4EA2E5A561E0502E0C86CD7DDD"
 
 ## Payload. We are updating the Email ID
 payload = """{
