@@ -9,6 +9,7 @@
 ## Python Files
   - **create_users.py** : Used to create a user (no role assignment)
   - **update_user.py** : Updates details of an existing user
+  - **delete_user.py** : Deletes the user
   - **get_users.py** : Get the list of users and display information<br><br>
   ![List of Users](./img/getUsers.jpg)
   
@@ -16,6 +17,7 @@
   - python create_users.py
   - python get_users.py
   - python update_user.py
+  - python delete_user.py
   
 ## License
 Feel free to use the code for your own projects
